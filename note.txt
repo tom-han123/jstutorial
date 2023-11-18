@@ -1,0 +1,70 @@
+1.What is Js?
+ First Known as LiveScript.
+ created by Brendan Eich in 1995.
+ lightweight interpreted aka scripting language for web pages.
+
+ https://byjus.com/gate/difference-between-compiled-and-interpreted-language/#:~:text=An%20interpreted%20language%20is%20a,slower%20than%20the%20compiled%20program.
+
+
+ 2.Why Js?
+
+ 3.Useful Js Frameworks =>
+
+    (Angular, React, Jquery, Vue.js, Node.js, etc...)
+
+4.Applications of Js Programming
+    1.Client Side Validation
+    2.Manipulating HTML pages
+    3.User Notification
+    4.Back-end data loading
+    5.Presentations
+    6.Server Applications
+
+
+1. Js Placement
+    1.head
+    2.body
+    3.head & body
+    4.external
+
+
+2. Variable
+    1.var 
+    2.let 
+    3.const 
+
+
+3. Data Type
+    1.Number (30, 10.5, 1)
+    2.String (name, sex, address)
+    3.Boolean (true, flase)
+
+4.Operator
+    1.Arithmetic Operators(+,-,*,/,%,++,--)
+    2.Comparison Operators (==,!=, <, >, >=, <=)
+    3.Logical (or Relational) Operators (&&, ||, !)
+    4.Assignment Operators(=,+=,-=,*=,/=,%=)
+    5.Conditional (or ternary) Operators (?:)
+
+5.If statement.
+
+6.Switch case
+
+7.While Loop ()
+
+8.For Loop
+
+9.For in
+
+10.Loop Control (break, continue);
+
+11.Function
+
+12.Event (onclick, onsubmit);
+
+13.Object
+
+14.Arrays
+
+15.Methods
+
